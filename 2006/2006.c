@@ -11,7 +11,7 @@ int main(){
 		scanf("%d %d %d %d %d",&a,&b,&c,&d,&e);
 	}while(a<1||a>4||b<1||b>4||c<1||c>4||d<1||d>4||e<1||e>4);//contestant choices must be between 1 and 4
 	s=0;
-	//add 1 to 's' for every time t and contestants choices are matched
+	//add 1 to 's' every time t and contestants choices are matched
 	//can also use a for loop to add 1 to 's'
 	if(t==a)
 		s++;
