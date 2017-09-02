@@ -1,6 +1,4 @@
 # URI-Solutions
-Uri Solutions
-uri solutions
 
 URI Online Judge solutions. This repository has no involvement with URI creators. Solutions are provided in C.
 
