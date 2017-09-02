@@ -12,7 +12,7 @@ int main(){
 		s=0;
 		//for loop to check if its a perfect number
 		for(y=1;y<a;y++){
-			//NOTE: division between two intergers ALWAYS results in an interger value
+			//NOTE: division between two integers ALWAYS results in an integer value
 			if(a%y==0){
 				//add 'y' to 's'
 				s=s+y;
