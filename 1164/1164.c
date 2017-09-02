@@ -10,7 +10,7 @@ int main(){
 		//input
 		scanf("%d",&a);
 		s=0;
-		//for loop to check if this is a perfect number
+		//for loop to check if its a perfect number
 		for(y=1;y<a;y++){
 			//NOTE: division between two intergers ALWAYS results in an interger value
 			if(a%y==0){
