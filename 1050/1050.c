@@ -2,7 +2,10 @@
 
 int main(){
 	int ddd;
+	//input
 	scanf("%d",&ddd);
+	//switch..case for ddd
+	//start of output
 	switch(ddd){
 		case 11:
 			printf("Sao Paulo");
@@ -32,5 +35,6 @@ int main(){
 			printf("DDD nao cadastrado");
 	}
 	printf("\n");
+	//end of output
 	return 0;
 }
