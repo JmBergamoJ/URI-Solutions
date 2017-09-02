@@ -6,7 +6,7 @@ Adapted by Neilor Tonin, URI  Brazil
 
 Timelimit: 1
 
-Make a program that reads 3 integer values and present the greatest one followed by the message "eh o maior". Use the following formula:
+Make a program that reads 3 integer values and present the greatest one followed by the message "eh o maior". Use the following formula: <h2>MaiorAB=(a+b+abs(a-b))/2</h2>
 
 <h3>Input</h3>
 
