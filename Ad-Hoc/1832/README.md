@@ -10,7 +10,7 @@ EBCDIC (Extended Binary Coded Decimal Interchange Code) is a 8-bits character en
 
 The following image shows the EBCDIC encoding table. White cells area unused values, and two or more uppercase characters represents non-printable chars. BLANK is the whitespace character.
 
-![EBCDIC Table] (https://www.urionlinejudge.com.br/gallery/images/problems/UOJ_1832.png)
+[EBCDIC Table] (https://www.urionlinejudge.com.br/gallery/images/problems/UOJ_1832.png)
 
 
 Write a program that convert a EBCDIC-encoded text to ASCII encoding.
