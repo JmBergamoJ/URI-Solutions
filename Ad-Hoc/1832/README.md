@@ -26,6 +26,7 @@ You may assume that the messages will only correspond to alphanumeric or whitesp
 For each test case the output must be the message in ASCII encoding, followed by a newline character.
 
 Input Samples|	Output Samples
+|-|-|
 343 205 247 243 226|Texto
 324 205 225 242 201 207 205 224 100 361|Mensagem 1
 324 205 225 242 201 207 205 224 100 362|Mensagem 2
