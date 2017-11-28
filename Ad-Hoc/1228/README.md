@@ -11,8 +11,9 @@ The input contains several test cases. Each test case uses three lines. The firs
 ## Output
 
 For each test case print a line containing a single integer, the minimum number of overtakes necessary to get from the starting grid to the finishing grid.
-|-|-|
+
 Sample Input| 	Sample Output
+|-|-|
 5|3
 1 2 3 4 5|3
 3 1 2 5 4|4

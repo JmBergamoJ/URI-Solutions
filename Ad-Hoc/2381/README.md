@@ -15,8 +15,9 @@ A primeira linha contém dois inteiros N e K separados por um espaço em branco 
 ## Saída
 
 Seu programa deve imprimir uma única linha, contendo o nome do aluno que deve receber o bônus.
-|-|-|
+
 Exemplos de Entrada|	Exemplos de Saída
+|-|-|
 5 1|carlos
 maria|
 joao|

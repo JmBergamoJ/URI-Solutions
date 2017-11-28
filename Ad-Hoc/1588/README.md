@@ -20,8 +20,9 @@ In the first line of each test case we have two numbers, N (2 ≤ N ≤ 20* or 2
 ## Output
 
 Output the sorted scoreboard team names, one per line. It is not necessary to print anything between the test cases!
-|-|-|
+
 Sample Input|	Sample Output
+|-|-|
 3|palmeiras
 2 2|santos
 palmeiras|b

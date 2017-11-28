@@ -17,8 +17,9 @@ The input consists of several names. The first value N (0 ≤ N ≤ 100), indica
 # Saída
 
 For each list of children, you should print the names in alphabetical order. After print the names, you must show the total number of children that were well behaved ("Se comportaram: ") and misbehaved during the year ("Nao se comportaram: ").
-|-|-|
+
 |Input Example|	Output Example|
+|-|-|
 16|Aninha
 + Tininha|Bruninha
 + Dudinha|Carlinhos

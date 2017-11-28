@@ -14,8 +14,8 @@ For each test case, print a line containing all numbers representing the height 
 
 Obs.: The input file is very large, so you need to use fast input and output methods.
 
-|-|-|
 Sample Input|	Sample Output
+|-|-|
 6|31 35 37 37 37 57 61 65 72 76
 10|21 22 26 45 49 51 51 55 64 78 185 186
 65 31 37 37 72 76 61 35 57 37|20 58 64 67 81 93 112 180 203 225

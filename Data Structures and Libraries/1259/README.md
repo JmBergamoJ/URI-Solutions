@@ -11,8 +11,9 @@ The first line of input contains a positive integer number N (1 < N < 105). This
 ## Output
 
 Print all numbers according to the explanation presented above. Each number must be printed in one line as shown below.
-|-|-|
+
 Sample Input| 	Sample Output
+|-|-|
 10|4
 4|32
 32|34

@@ -19,8 +19,9 @@ The input contains on the first line the number of test cases (N). Each test cas
 ## Output
 
 For each test case output the sentence: 'Optimal train swapping takes S swaps.' where S is an integer.
-|-|-|
+
 Input Sample	|Output Sample
+|-|-|
 3|Optimal train swapping takes 1 swaps.
 3|Optimal train swapping takes 6 swaps.
 1 3 2|Optimal train swapping takes 1 swaps.

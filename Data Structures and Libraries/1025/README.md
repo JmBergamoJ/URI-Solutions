@@ -17,8 +17,9 @@ For each test case output there must be a serial number of the test case. For ea
 The two different formats are described below:
 'x found at y', if the first marble with number x was found at position y. Positions are numbered 1, 2,..., N.
 'x not found', if the marble with number x is not present.
-|-|-|
+
 Input Sample|	Output Sample|
+|-|-|
 4 1|CASE# 1:
 2|5 found at 4
 3|CASE# 2:

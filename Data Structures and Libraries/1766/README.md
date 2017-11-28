@@ -19,8 +19,9 @@ This problem has several test cases. The first line of the input contains an int
 ## Output
 
 For each test case you should print the message "CENARIO {i}" where i indicates the current test case followed by the position and the name of each of the M reindeer that will pull the sleigh, ordered as described above.
-|-|-|
+
 Input Sample|	Output Sample
+|-|-|
 1|CENARIO {1}
 9 5|1 - Rudolph
 Rudolph 50 100 1.12|2 - Cupid

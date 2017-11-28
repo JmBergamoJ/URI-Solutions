@@ -32,8 +32,8 @@ Garante-se que não houve dois carros que gastaram o mesmo tempo para completar 
 
 A saída consiste de três linhas, contendo um único inteiro cada. A primeira linha contém o número do carro que ganhou a corrida, a segunda contém o número do segundo colocado e a terceira contém o número do terceiro colocado.
 
-|-|-|
 Exemplos de Entrada|	Exemplos de Saída
+|-|-|
 3 1|1
 1|2
 2|3

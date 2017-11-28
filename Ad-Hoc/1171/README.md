@@ -11,8 +11,9 @@ The input contains only one test case. The first line of input contains one inte
 ## Output
 
 Print the output according to the example provided below, indicating how many times each number appears in the input file, by ascending order of value.
-|-|-|
+
 Input Sample|	Output Sample
+|-|-|
 7|4 aparece 1 vez(es)
 8|8 aparece 2 vez(es)
 10|10 aparece 3 vez(es)
