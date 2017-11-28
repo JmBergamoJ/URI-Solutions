@@ -1,13 +1,12 @@
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
-#include <stdbool.h>
 #include <stdlib.h>
 
 int otoi(char octal[]);
 
 int main() {
-	char octal[5];
+	char octal[5],c;
 	int dec;
 	while(scanf("%s",octal)!=EOF){
 		dec=otoi(octal);
@@ -75,9 +74,9 @@ int main() {
 		case 247: printf("7"); break;
 		case 248: printf("8"); break;
 		case 249: printf("9"); break;
-		//default:
 		}
-		if(getchar()==13)
+		c=getchar();
+		if(c==13||c==10)
 			printf("\n");
 	}
 	printf("\n");
